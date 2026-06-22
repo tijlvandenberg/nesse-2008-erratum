@@ -1,0 +1,25 @@
+{
+  "title": "Erratum-supporting materials for Nesse et al. (2008) Periodontal Inflamed Surface Area: typographical error in Table 1 (maxillary lateral incisor a₅)",
+  "description": "<p>Companion materials to a Letter to the Editor / Corrigendum being prepared for <em>Journal of Clinical Periodontology</em>, addressing a single decimal-shift typographical error in Table 1 of Nesse et al. (2008). Includes the manuscript drafts, figure with source code, correspondence templates (Dutch + English), and a stand-alone Python implementation plus pytest regression suite that reproduces all 25 anchored ALSA reference points from the original paper's Figure 2a–c within 0.17 mm² (< 0.1 %) using the corrected coefficient.</p>",
+  "creators": [
+    {
+      "name": "van den Berg, T.H.",
+      "affiliation": "Practice for Periodontology Haarlem, The Netherlands"
+    }
+  ],
+  "keywords": ["PISA", "periodontal inflamed surface area", "Nesse 2008",
+               "errata", "attachment loss", "reproducibility"],
+  "license": "mit",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.1111/j.1600-051X.2008.01249.x",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}
